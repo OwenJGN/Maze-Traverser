@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fd789f2-436b-43fb-bfc9-8ce039fc6cbb": {
+      "ProjectGuid": "5fd789f2-436b-43fb-bfc9-8ce039fc6cbb",
+      "DisplayName": "Maze Traverser (NEA)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

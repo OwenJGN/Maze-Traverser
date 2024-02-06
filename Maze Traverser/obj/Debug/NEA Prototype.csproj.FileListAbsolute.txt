@@ -1,0 +1,12 @@
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.csprojAssemblyReference.cache
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.Properties.Resources.resources
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.csproj.GenerateResource.cache
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.pdb
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmUserLogin.resources
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmMazeTraverser.resources
+C:\Users\Owen\Documents\Visual Studio Projects\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmCreateAccount.resources
